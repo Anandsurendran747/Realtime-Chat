@@ -29,6 +29,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
+}.typefeildiv1{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }#textfeild,#clintname{
     width: 78%;
     margin-top: 1vh;
