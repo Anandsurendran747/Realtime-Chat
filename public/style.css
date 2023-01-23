@@ -1,0 +1,60 @@
+.join-room,.create-room{
+    text-align: center;
+    margin-top: 30vh;
+    
+}.button{
+    background-color: rgb(221, 125, 7);
+}.chatbox{
+    width: 80%;
+    height: 70vh;
+    border: 1px solid;
+    margin-left: 10%;
+    margin-top: 3%;
+    overflow-y: auto;
+}.typefeildiv{
+    width: 80%;
+    height: fit-content;
+    margin-left: 10%;
+    margin-top: 1vh;
+    padding: 0;
+}#textfeild,#clintname{
+    width: 78%;
+    margin-top: 1vh;
+    height: 5vh;
+    float: left;
+    
+}.sendbutton{
+    float: right;
+    width: 20%;
+    min-width: fit-content;
+    /* margin-left: 91%; */
+    /* height: 11vh; */
+    /* padding: 3px; */
+    /* margin: 0; */
+    /* clear: none; */
+    
+}.leftmessage{
+    float: left;
+    clear: both;
+    max-width: 50%;
+    width: fit-content;
+    background-color: rgb(194, 188, 188);
+    margin: 5px;
+    word-wrap: break-word;
+    /* overflow-x: auto; */
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 5px;
+}.rightmessage{
+    float: right;
+    clear: both;
+    word-wrap: break-word;
+    max-width: 50%;
+    /* overflow-x: auto; */
+    width: fit-content;
+    background-color: rgb(194, 188, 188);
+    margin: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 5px;
+}
