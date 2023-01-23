@@ -20,6 +20,7 @@
     margin-top: 50px;
     width: 80%;
     height: 70vh;
+    overflow-y: auto;
     border: 5px solid white;
     border-radius: 10px;
 }.typefeildiv{
