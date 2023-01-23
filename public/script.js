@@ -26,7 +26,7 @@ if(window.location.pathname==='/join'){
     });
   } else {
     location.href = "/";
-
+    alert("Please enter your name")
     }
   }
 socket.on("left", (name) => {
